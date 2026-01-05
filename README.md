@@ -1,4 +1,4 @@
-# 📊 **Online Retail Business Performance Analysis**
+# 🛒 **Online Retail Business Performance Analysis**
 
 ## 🧩 Project Overview
 This project was completed as part of a Tata Virtual Internship, where I worked as a Data Analyst to analyze an online retail company’s transactional data and generate insights to support executive-level decision making.
@@ -38,7 +38,7 @@ Both marketing and operational perspectives were considered to align insights wi
 
 ### 🧾 Data Description
 
-The dataset contains detailed records of online retail transactions, capturing sales, customer, product, and geographic information. Each row represents a **single transaction line item**.
+The dataset contains detailed records of online retail every row shows one product sold with details like invoice number, Stock Code, product, Description, quantity, price, Invoice Date customer ID, and country.
 
 ### 🧩 Key Columns
 
