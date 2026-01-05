@@ -54,7 +54,7 @@ This step was critical to avoid misleading revenue and demand insights.
 
 1. Which are the Top 10 countries by revenue and quantity sold (excluding the UK)?
    
-2. Who are the Top 10 customers by revenue contribution?  
+2. Who are the Top 10 customers by revenue?  
 
 
 ## 📊 Visualizations & Insights
@@ -66,15 +66,15 @@ Insights:
 <img width="1181" height="674" alt="Screenshot 2026-01-05 211325" src="https://github.com/user-attachments/assets/0fdef75b-1eb4-419f-8221-6cca7c2d52f2" />
 
 
-▣ Revenue started at $0.69M in January  
+      ▣ Revenue started at $0.69M in January  
 
-▣ Drops observed in February and April  
+      ▣ Drops observed in February and April  
 
-▣ Gradual recovery mid-year  
+      ▣ Gradual recovery mid-year  
 
-▣ Strong surge from September ($1.06M) to November ($1.51M)  
+      ▣ Strong surge from September ($1.06M) to November ($1.51M)  
 
-▣ Sharp decline in December ($0.64M)  
+      ▣ Sharp decline in December ($0.64M)  
 
 
 Business Insight:
