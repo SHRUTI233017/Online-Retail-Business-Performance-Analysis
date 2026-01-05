@@ -1,4 +1,5 @@
-📊 ONLINE RETAIL BUSINESS PERFORMANCE ANALYSIS
+# 📊 **ONLINE RETAIL BUSINESS PERFORMANCE ANALYSIS**
+
 ## 🧩 Project Overview
 This project was completed as part of a Tata Virtual Internship, where I worked as a Data Analyst to analyze an online retail company’s transactional data and generate insights to support executive-level decision making.
 
@@ -15,6 +16,7 @@ The analysis focuses on business performance, customer behavior, and regional de
 Power BI – Data cleaning and dashboards
 
 Excel – Initial data validation and checks
+
 ## 🏢 Business Context
 The company is performing well but wants deeper clarity on:
 
@@ -34,12 +36,14 @@ Both marketing and operational perspectives were considered to align insights wi
 
 
 ## 🧹Data Cleaning & Preparation
+
 Before analysis, the dataset was cleaned to ensure accuracy:
 
 ▸ Removed records where Quantity < 1  
 ▸ Removed records where Unit Price ≤ 0  
 ▸ Filtered out invalid and return transactions  
 ▸ Ensured only valid sales data was used for analysis  
+
 This step was critical to avoid misleading revenue and demand insights.
 
 ## 🧠 Business Questions Framed for CEO & CMO
@@ -94,11 +98,11 @@ Insights:
 <img width="1160" height="684" alt="Screenshot 2026-01-05 211347" src="https://github.com/user-attachments/assets/82fd03e4-bdf8-44ad-a3ec-ab9f3a3c9821" />
 
 
-▣ Netherlands and EIRE (Ireland) are top contributors  
+      ▣ Netherlands and Ireland are top contributors  
 
-▣ Strong performance from Germany, France, and Australia  
+      ▣ Strong performance from Germany, France, and Australia  
 
-▣ Lower contribution from Sweden, Belgium, and Norway  
+      ▣ Lower contribution from Sweden, Belgium, and Norway  
 
 Business Insight:
 
@@ -115,11 +119,11 @@ Insights:
 <img width="1183" height="671" alt="Screenshot 2026-01-05 211401" src="https://github.com/user-attachments/assets/15ef7656-1092-47b2-aa1e-6976a09c368f" />
 
 
-▣ Customer 14646 generated the highest revenue (~$272K)  
+        ▣ Customer 14646 generated the highest revenue (~$272K)  
 
-▣ Followed by 18102 ($232K) and 17450 ($193K)  
+        ▣ Followed by 18102 ($232K) and 17450 ($193K)  
 
-▣ Revenue heavily concentrated among a small group of customers  
+        ▣ Revenue heavily concentrated among a small group of customers  
 
 
 Business Insight:
@@ -137,9 +141,9 @@ Insights:
 <img width="1189" height="671" alt="Screenshot 2026-01-05 211426" src="https://github.com/user-attachments/assets/18a0d027-ab13-49a1-9524-83581b0d74ff" />
 
 
-▣ Highest demand observed in Europe (Netherlands, EIRE, Germany) and Australia  
+     ▣ Highest demand observed in Europe (Netherlands, EIRE, Germany) and Australia  
 
-▣ Moderate to low demand in Asia, Africa, and South America  
+     ▣ Moderate to low demand in Asia, Africa, and South America  
 
 
 Business Insight:
@@ -150,6 +154,7 @@ ii. Emerging regions offer future expansion opportunities
 
 
 ## 📌Overall Business Insights   
+
 ◆ Revenue shows strong seasonality, peaking in November  
 
 ◆ A few countries contribute the majority of sales  
@@ -160,6 +165,7 @@ ii. Emerging regions offer future expansion opportunities
 
 
 ## 🏁 Business Impact
+
 ➤ Plan inventory and campaigns around seasonal peaks  
 
 ➤ Focus marketing on high-value customers  
@@ -169,11 +175,3 @@ ii. Emerging regions offer future expansion opportunities
 ➤ Explore expansion in under-penetrated markets  
 
 
-## 🎯 Business Objectives
-✦ Analyze monthly revenue trends  
-
-✦ Identify top-performing countries and customers  
-
-✦ Understand product demand by region  
-
-✦ Support data-driven decisions for business expansion  
