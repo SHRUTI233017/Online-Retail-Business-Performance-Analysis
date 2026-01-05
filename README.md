@@ -34,6 +34,22 @@ Both marketing and operational perspectives were considered to align insights wi
 ✦ Understand product demand by region  
 ✦ Support data-driven decisions for business expansion  
 
+📁 Dataset Version
+### 🧾 Data Description
+
+The dataset contains detailed records of online retail transactions, capturing sales, customer, product, and geographic information.  
+
+### 🧩 Key Columns
+
+* **InvoiceNo** – Unique invoice number for each transaction
+* **StockCode** – Product/item identifier
+* **Description** – Product description
+* **Quantity** – Number of units sold per transaction
+* **InvoiceDate** – Date and time of the transaction
+* **UnitPrice** – Price per unit of the product
+* **CustomerID** – Unique customer identifier
+* **Country** – Customer’s country
+
 
 ## 🧹Data Cleaning & Preparation
 
