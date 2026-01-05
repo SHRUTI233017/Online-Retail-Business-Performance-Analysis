@@ -34,10 +34,11 @@ Both marketing and operational perspectives were considered to align insights wi
 ✦ Understand product demand by region  
 ✦ Support data-driven decisions for business expansion  
 
-📁 Dataset Version
+## 📁 Dataset Version
+
 ### 🧾 Data Description
 
-The dataset contains detailed records of online retail transactions, capturing sales, customer, product, and geographic information.  
+The dataset contains detailed records of online retail transactions, capturing sales, customer, product, and geographic information. Each row represents a **single transaction line item**.
 
 ### 🧩 Key Columns
 
