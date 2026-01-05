@@ -1,4 +1,4 @@
-# 📊 **ONLINE RETAIL BUSINESS PERFORMANCE ANALYSIS**
+# 📊 **Online Retail Business Performance Analysis**
 
 ## 🧩 Project Overview
 This project was completed as part of a Tata Virtual Internship, where I worked as a Data Analyst to analyze an online retail company’s transactional data and generate insights to support executive-level decision making.
